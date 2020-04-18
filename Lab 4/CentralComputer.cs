@@ -24,7 +24,7 @@ namespace Lab_4
                 Thread.Sleep(1000);
             }
         }
-        public static void RestartMachine(Machine machine) //Implementacion parte 4
+        public static void RestartMachine(Machine machine) //Implementacion parte 4 (solo necesite un metodo para lograrlo)
         {
             machine.Restart();
         }
