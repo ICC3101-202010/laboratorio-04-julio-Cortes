@@ -1,0 +1,7 @@
+C:\Users\jick\Desktop\P.O.O\laboratorio-04-julio-Cortes\Lab 4\bin\Debug\Lab 4.exe.config
+C:\Users\jick\Desktop\P.O.O\laboratorio-04-julio-Cortes\Lab 4\bin\Debug\Lab 4.exe
+C:\Users\jick\Desktop\P.O.O\laboratorio-04-julio-Cortes\Lab 4\bin\Debug\Lab 4.pdb
+C:\Users\jick\Desktop\P.O.O\laboratorio-04-julio-Cortes\Lab 4\obj\Debug\Lab 4.csprojAssemblyReference.cache
+C:\Users\jick\Desktop\P.O.O\laboratorio-04-julio-Cortes\Lab 4\obj\Debug\Lab 4.csproj.CoreCompileInputs.cache
+C:\Users\jick\Desktop\P.O.O\laboratorio-04-julio-Cortes\Lab 4\obj\Debug\Lab 4.exe
+C:\Users\jick\Desktop\P.O.O\laboratorio-04-julio-Cortes\Lab 4\obj\Debug\Lab 4.pdb
