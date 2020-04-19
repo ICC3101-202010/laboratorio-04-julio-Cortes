@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lab_4
 {
-    public interface IMachine
+    public interface IFunctions
     {
         void Start();
         void Turnoff();

@@ -13,10 +13,12 @@ namespace Lab_4
         {
             Machine[] machines = { new Reception(), new Storage(), new Assembly(), new Verification(), new Packaging() };
             string mode;
-            Console.WriteLine("Modo automatico(1)[Parte 2] o Modo manual(2)[Parte 3]");
+            CentralComputer centralComputer = new CentralComputer();
+
+            Console.WriteLine("Modo automatico(1)[Parte 2] o Modo manual(2)[Parte 4]");
             mode = Console.ReadLine();
-            CentralComputer.Setupfabric(machines);
-            CentralComputer.Startfabric(mode);
+            centralComputer.SetupFabric(machines);
+            centralComputer.StartFabric(mode);
 
         }
     }

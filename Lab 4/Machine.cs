@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Lab_4
 {
-    public abstract class Machine : IMachine
+    public abstract class Machine : IFunctions
     {
         protected int memory { get; set; }
         protected int maxMemory { get; set; }

@@ -45,7 +45,8 @@
   <ItemGroup>
     <Compile Include="Assembly.cs" />
     <Compile Include="CentralComputer.cs" />
-    <Compile Include="IMachine.cs" />
+    <Compile Include="IFabric.cs" />
+    <Compile Include="IFunctions.cs" />
     <Compile Include="Machine.cs" />
     <Compile Include="Packaging.cs" />
     <Compile Include="Program.cs" />
